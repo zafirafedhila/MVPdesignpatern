@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPdesignpatern</string>
+    <string name="empty">tidak boleh kosong</string>
+</resources>
